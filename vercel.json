@@ -1,11 +1,11 @@
 {
   "functions": {
-    "meting-api/**/*.php": {
+    "api/**/*.php": {
       "runtime": "vercel-php@0.3.3"
     }
   },
   "routes": [
-    { "src": "/(.*)", "dest": "/meting-api/index.php" }
+    { "src": "/(.*)", "dest": "/api/index.php" }
   ],
   "env": {
     "NOW_PHP_FOO": "bar3"
