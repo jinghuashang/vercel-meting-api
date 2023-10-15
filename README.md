@@ -4,7 +4,7 @@
 
 #  Meting-API For Vecerl
 
-```Tip: 如果是用于anzhiyu之类的hexo主题，此项目无法播放```
+```Tips: 如果是用于anzhiyu之类的hexo主题，此项目无法播放```
 
 
 
